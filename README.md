@@ -1,5 +1,3 @@
-# soccer_analysis
-
 # Writing a README 
 1. Need to be descriptive 
 2. Anyone should understand our project
